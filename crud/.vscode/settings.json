@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.js":"javascriptreact"
+    },
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3307,
+            "askForPassword": true,
+            "driver": "MariaDB",
+            "name": "tst",
+            "database": "test",
+            "username": "root"
+        }
+    ]
+}
